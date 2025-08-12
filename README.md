@@ -17,7 +17,7 @@ A simple, user-friendly desktop application for tracking expenses, setting budge
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/expense_tracker_gui.git
+git clone https://github.com/GeenaEvangelin04/expense_tracker_gui.git
 cd expense_tracker_gui
 
 ### 2️⃣ Create a virtual environment
@@ -54,3 +54,4 @@ To reset data:
 
 cp expenses_template.csv expenses.csv
 cp data/settings_template.json data/settings.json
+

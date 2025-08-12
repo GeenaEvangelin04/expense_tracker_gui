@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode and caches everywhere
+*.pyc
+*.pyo
+*.pyd
+
+# Local data files
+expenses.csv
+data/*.json
+!data/settings_template.json
+local_data_backup/
+.secrets/
+venv/
+.env
+.vscode/
